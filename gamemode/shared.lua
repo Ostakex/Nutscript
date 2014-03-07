@@ -6,7 +6,7 @@
 local startTime = CurTime()
 
 -- Allows us to use the spawn menu and toolgun.
-DeriveGamemode("sandbox")
+DeriveGamemode("base")
 
 -- Gamemode variables.
 nut.Name = "NutScript"
