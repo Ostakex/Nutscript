@@ -14,13 +14,13 @@ nut.config.dbModule = "mysqloo"
 nut.config.dbHost = "tagl.is"
 
 -- The user to login as.
-nut.config.dbUser = "jojo"
+nut.config.dbUser = "gamemode"
 
 -- What the user's password is.
-nut.config.dbPassword = "bubbla88"
+nut.config.dbPassword = "Svalurgaur666"
 
 -- The database that will be used for the framework. Make sure you have the .sql file already inside!
-nut.config.dbDatabase = "jojo"
+nut.config.dbDatabase = "gamemode_gmod"
 
 -- The table for characters.
 nut.config.dbTable = "characters"
