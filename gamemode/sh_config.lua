@@ -129,7 +129,7 @@ if (CLIENT) then
 	nut.config.showTime = true
 
 	-- If set to false, then color correction will not be enabled.
-	nut.config.sadColors = true
+	nut.config.sadColors = false
 
 	-- Whether or not to enable the crosshair.
 	nut.config.crosshair = true
@@ -145,7 +145,7 @@ if (CLIENT) then
 	nut.config.crossAlpha = 150
 
 	-- Whether or not to draw the vignette.
-	nut.config.drawVignette = true
+	nut.config.drawVignette = false
 	
 	hook.Add("SchemaInitialized", "nut_FontConfig", function()
 		surface.SetFont("nut_TargetFontSmall")
