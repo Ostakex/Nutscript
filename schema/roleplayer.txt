@@ -1,0 +1,7 @@
+"GameMode"
+{
+	"base"		"nutscript"
+	"title"		"RolePlayer"
+	"author"	"Chessnut"
+	"menusystem" "1"
+}
